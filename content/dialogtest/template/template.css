@@ -1,0 +1,116 @@
+/* css/template.css: specific definitions for content inside each slide */
+
+/* General styles for all templates */
+
+#ld_slider .standard, #ld_slider .no-title, #ld_slider .quote, #ld_slider .single-choice {
+	padding: 30px 50px;
+	max-width: 608px;
+	z-index: -10;
+}
+
+#ld_slider .full-size, #ld_slider .double-column {
+	padding: 15px 25px;
+	max-width: 658px;
+	text-align: center;
+	z-index: -10;
+}
+
+#ld_slider p, ul, ol, li, td, form {
+	padding-top: 10px !important;
+}
+
+#ld_slider li {
+	margin-left: 25px; 
+}
+
+#ld_slider input {
+	margin: 10px;
+}
+
+#ld_slider img, video, table, iframe {
+	margin: 15px auto 0px;
+	display: block;
+	max-height: 315px;
+}
+
+#ld_slider .full-size img, video, table, iframe {
+	max-height: 400px;
+}
+
+#ld_slider .double-column img, video, table, iframe {
+	max-height: 400px;
+}
+
+#ld_slider .double-column img, video, table, iframe {
+	max-width: 280px;
+	margin: 0 20px;
+	text-align: center;
+}
+
+#ld_slider .double-column .content-left {
+	display: inline-block;
+}
+
+#ld_slider .double-column .content-right {
+	display: inline-block;
+}
+
+#ld_slider img, video, table, iframe, th, td {
+	max-width: 608px;
+}
+
+#ld_slider .full-size img, video, table, iframe, th, td {
+	max-width: 658px;
+}
+
+#ld_slider .title {
+	padding-bottom: 10px;
+}
+
+/* Specific styles */
+
+#ld_slider th.two-columns, td.twocolumns{
+	width: 280px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#ld_slider .section-title {
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+/* Section cover with quotes */
+
+#ld_slider .quote .quote-icon {
+	float: left;
+	margin: 0 20px 50px 0;
+}
+
+#ld_slider .quote .content p {
+	line-height: 25px;
+}
+
+#ld_slider .quote .author {
+	padding-top: 10px;
+}
+
+#ld_slider .quote .title {
+	padding-top: 100px;
+}
+
+/* Question */
+
+#ld_slider .feedback {
+	display: inline;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+#ld_slider .quiz {
+	margin-top: 10px;
+}
+
+#ld_slider input#options:checked {
+	font-weight: bold;
+}

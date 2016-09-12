@@ -1,0 +1,174 @@
+var slides_content = [
+    {
+        "template": "no-title",
+        "content": "<h1 style=\"text-align: center; padding-top: 100px; font-size: 2.5em\">Positioning and Objectives</h1></br><h2 style=\"text-align: center; padding-top: 50px;\">Welcome and Positioning of Creativity and its Richness</h2>",
+        "audio": "audio_0",
+        "subtitle": ""
+    },
+    {
+        "template": "full-size",
+        "content": "<img src=\"img/leon_profesor_hablando.png\">",
+        "subtitle": "Welcome to this Programme on Creative Leadership",
+        "audio": "audio_1"
+    },
+    {
+        "template": "full-size",
+        "content": "<img src=\"img/leon_profesor_hablando.png\">",
+        "subtitle": "We want this programme to: make a big difference to your working and personal life; open up a whole new way of managing and leading for you; bring exciting results and greater welfare for you and for all those you manage.",
+        "audio": "audio_2"
+    },
+    {
+        "template": "full-size",
+        "content": "<img src=\"img/leon_profesor_hablando.png\">",
+        "subtitle": "We want to make this programme as meaningful and real as possible for you and to make real sense to you. Sometimes programmes like this (and indeed all programmes) can be one-sided, all coming from the teacher or presenter.",
+        "audio": "audio_3"
+    },
+    {
+        "template": "full-size",
+        "content": "<img src=\"img/leon_profesor_hablando.png\">",
+        "subtitle": "They can represent the thinking of the person running the programme rather than connect to the thinking AND needs of the person doing the learning.",
+        "audio": "audio_4"
+    },
+    {
+        "template": "full-size",
+        "content": "<img src=\"img/leon_profesor_hablando.png\">",
+        "subtitle": "For that reason, we want to handle this programme and your learning in a different, and hopefully more interesting and impactful way.",
+        "audio": "audio_5"
+    },
+    {
+        "template": "full-size",
+        "content": "<img src=\"img/leon_profesor_hablando.png\">",
+        "subtitle": "We want to manage it as a dialogue between a very bright and very demanding learner, Sim Learner and ourselves, LION, as the presenters or tutors.",
+        "audio": "audio_6"
+    },
+    {
+        "template": "no-title",
+        "content": "<h1 style=\"text-align: center; padding-top: 100px; font-size: 2.5em\">Let's see the dialog</h1>",
+        "subtitle": "Good as the learner in our dialogue may be, they may not be as bright or demanding as you and so we invite you to contact us using Twitter on anything that is not making sense to you. Is that ok?",
+        "audio": "audio_7"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+        "subtitle": "Yes it is, but I hope it does make sense to me. And, even more importantly, I hope I get a lot out of it. If I am going to give this time, a lot of time, I want to make sure it is time well spent.",
+        "audio": "audio_8"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+        "subtitle": "And what would make it really worth while for you? What would you need or like to get from this and from the time you will spend on it to make it really worth while?",
+        "audio": "audio_9"
+    },
+    {
+         "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+        "subtitle": "Well, to learn how to be a better manager and a better leader.",
+        "audio": "audio_10"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+        "subtitle": "And, more specifically, what would that mean or signify for you?",
+        "audio": "audio_11"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+        "subtitle": "Really it would mean being more effective, making a bigger difference and a real difference in my area of responsibility. And, I would like to understand more about creativity and the part it can play in my work as well as learn\nhow to be more creative.",
+        "audio": "audio_12"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+        "subtitle": "Great. That is what we want, and indeed commit to achieving through this programme. We want to make a huge difference to how you manage and lead. In fact we want to help you see your role as a manager and leader in a new light, so that you are able to lead your team and people to new and great things.",
+        "audio": "audio_13"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+        "subtitle": "Ok. And how will that happen. What will this new understanding of my role mean and how will the programme help me to achieve great things in my area and with my team?",
+        "audio": "audio_14"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+        "subtitle": "In lots of ways. One of the reasons why we are talking of creativity is that when you understand it and become really good at it (and you will) you will be able to see and to help others to see, the many and enormous possibilities that always exist around us, and that are around you right now.",
+        "audio": "audio_15"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+        "subtitle": "That's fine but how will I do this and surely I need to do more than SEE them.",
+        "audio": "audio_16"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+        "subtitle": "Yes, you do. We will give you and you will learn new, practical and effective processes to involve people in powerful and creative ways to get people moving and things done.",
+        "audio": "audio_17"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+        "subtitle": "What do you mean by \"processes\"?",
+        "audio": "audio_18"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+        "subtitle": "Well one process you will learn is around meetings where you already probably spend a lot of time and which CAN be so important. After this programme you will be able to run better, more enjoyable and more effective meetings.",
+        "audio": "audio_19"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+		"subtitle": "That's good but I don't see meetings making a huge difference!",
+        "audio": "audio_20"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+		"subtitle": "It depends. They can be very powerful and can be places where great things and great breakthroughs happen. In this programme you will learn and get new tools and processes that will improve how you work in and out of meetings and so make it possible and easy for you to achieve new breakthroughs which will be critical for that greater impact that you want to have and to making that big difference you want to make.",
+        "audio": "audio_21"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_escuchando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_hablando.png\">",
+        "subtitle": "So I will have a new understanding of my role as a manager, be more aware and make others more aware that a lot more is possible than we might think, have new processes to involve people more and encourage their thinking, be able to run better meetings that lead to big breakthroughs. I see. Quite a lot!",
+        "audio": "audio_22"
+    },
+    {
+        "template": "double-column",
+        "content-right": "<img src=\"img/leon_alumno_hablando.png\">",
+		"content-left": "<img src=\"img/alumno_humano_escuchando.png\">",
+        "subtitle": "Yes, but you will get more than this. Using all of these and working in this way, you will be able to develop a whole new culture in your area built around creativity and innovation. It will be a new place, full of life and hope and new things.",
+        "audio": "audio_23"
+    },
+    {
+        "template": "no-title",
+        "content": "<h1 style=\"text-align: center; padding-top: 100px; font-size: 2.5em\">Was that ok?</h1>",
+        "subtitle": "Was that ok? Think you will gain a lot from this programme like our Learner, Sim, hopes to do?",
+        "audio": "audio_24"
+    },
+    {
+        "template": "full-size",
+        "content": "<img src=\"img/leon_profesor_hablando.png\">",
+        "subtitle": "Do you remember the 6 Objectives? Please go to your Companion Exercise Book and make a list of them and read back to what was said if you get stuck.",
+        "audio": "audio_25"
+    }
+]

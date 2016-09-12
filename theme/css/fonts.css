@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Aller';
+	src: url('../fonts/Aller/Aller_Rg.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentico';
+	src: url('../fonts/Sentico/SenticoSansDT-Regular.otf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+

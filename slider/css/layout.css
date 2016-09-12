@@ -1,0 +1,47 @@
+/* css/layout.css: element positions */
+
+/* margin and padding total reset */
+
+#ld_wrapper * {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#ld_wrapper {width: 708px; margin: 0px auto; outline: 2px solid white; overflow: hidden;}
+
+#ld_container {height: 340px;}
+
+	#ld_top {overflow: visible;}
+
+		#ld_left_button, #ld_right_button {top: 200px; position: relative; z-index: 10;}
+
+		#ld_left_button {float: left;}
+
+		#ld_right_button {float: right;}
+
+	#ld_slider {margin-left: 0; display: block; float: left; position: relative; top: -60px; overflow: visible; max-height: 200px;}
+
+		#ld_loading {display: block; margin-top: 150px; text-align: center;}
+
+		#ld_slider .slide {max-height: 360px; float: left; margin: 0px 0px;}
+
+#ld_subtitle_box {padding: 12px 50px; height: 70px; overflow-y: hidden; position: relative;}
+
+	#ld_subtitle_box p {max-height: 38px;}
+	
+#ld_multimedia {padding: 12px 50px; text-align: center; min-height: 40px; position: relative}
+
+	#ld_player_left {float: left;}
+	
+	#ld_voiceover {display: inline;}
+	
+		#ld_audio {max-width: 300px !important;}
+
+	#ld_subs_control {float: right;}
+	
+	#ld_continous_control {float: right;}
+
+	#progressbar {width: 350px; height: 34px; margin: 0px auto;}
+
+#dialog-modal {display: none;}
